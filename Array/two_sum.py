@@ -1,6 +1,8 @@
 '''
 Leetcode Question: 1. Two Sum
 https://leetcode.com/problems/two-sum/
+Time Complexity: O(n)
+Space Complexity: O(n)
 '''
 def twoSum(nums, target):
     if len(nums) < 2:
